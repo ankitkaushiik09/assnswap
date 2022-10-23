@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "790095704186",
+    "project_id": "assnswap",
+    "storage_bucket": "assnswap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790095704186:android:9bff82953d606428b28bc3",
+        "android_client_info": {
+          "package_name": "com.kaushik.assnswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790095704186-q5bb5lim7ahutd5l2e2nr2ejopffr96e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kaushik.assnswap",
+            "certificate_hash": "d02cf236a7e39cf9b259db5e570065a31341cd19"
+          }
+        },
+        {
+          "client_id": "790095704186-crvrnlagp743c3q15c1p25ke4lea8411.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfZ5ivgIHeNGhGJsB9BnAxgHA6nQSmCRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790095704186-crvrnlagp743c3q15c1p25ke4lea8411.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
